@@ -3,8 +3,8 @@
 ## Übung 1
 
 Testen Sie das Zeichenfenster, indem Sie
-* 3 Punkte an verschiedenen Koordinaten setzen,
-* mit Hilfe von 4 Linien ein Rechteck zeichnen und
+* 3 Punkte an verschiedenen Koordinaten setzen,
+* mit Hilfe von 4 Linien ein Rechteck zeichnen und
 * eine Ellipse zeichnen, die exakt in das Rechteck passt.
 
 ## Übung 2
